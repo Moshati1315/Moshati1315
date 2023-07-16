@@ -4,8 +4,8 @@
 
 - <b>COVID-19</b>
   - [Exploring COVID-19 Vaccine Effectiveness](https://github.com/ds5010/vaccines-3)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/ds5010/broadband-3) <b><i>(Potentially NSFW)</b></i>
+- <b>Broadband</b>
+  - [Broadband availability and digital equity in Maine](https://github.com/ds5010/broadband-3) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
