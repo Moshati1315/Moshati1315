@@ -3,9 +3,9 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>COVID-19</b>
-  - [Praciting DS & Algos in Python](https://github.com/ds5010/vaccines-3)
+  - [Exploring COVID-19 Vaccine Effectiveness](https://github.com/ds5010/vaccines-3)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/ds5010/broadband-3) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
