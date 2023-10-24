@@ -19,3 +19,5 @@
 
 <h2>Certifications:</h2>
 
+- <b>COVID-19</b>
+  - [DataCamp Certificate](https://github.com/Moshati1315/DataCamp)
