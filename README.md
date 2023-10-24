@@ -6,10 +6,12 @@
   - [Exploring COVID-19 Vaccine Effectiveness](https://github.com/ds5010/vaccines-3)
 - <b>Broadband</b>
   - [Broadband availability and digital equity in Maine](https://github.com/ds5010/broadband-3) <b><i></b></i>
+
 - <b>HIV</b>
-  - [Linear Regression for HIV rates](https://github.com/ds5010/broadband-3)
+  - [Linear Regression for HIV rates](https://github.com/Moshati1315/HIV)
+    
 - <b>Layoffs </b>
-  - [Global layoffs Tableau project ](https://github.com/Moshati1315/layoffs)
+ - [Global layoffs Tableau project ](https://github.com/Moshati1315/layoffs)
  
 - <b>Births </b>
   - [Births Tableau project ](https://github.com/Moshati1315/Births)
