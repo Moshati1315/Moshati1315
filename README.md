@@ -9,3 +9,5 @@
 - <b>Layoffs </b>
   - [Global layoffs Tableau project ](https://github.com/Moshati1315/layoffs)
  
+- <b>Births </b>
+- [Births Tableau project ](https://github.com/Moshati1315/Births)
