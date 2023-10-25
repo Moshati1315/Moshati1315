@@ -8,8 +8,8 @@
   - [Broadband availability and digital equity in Maine](https://github.com/ds5010/broadband-3) <b><i></b></i>
 
 - <b>HIV</b>
-  - [Equitable Health Care- HIV Prevalence & Nursing Home Ratings](https://github.com/Moshati1315/Moshati1315/assets/123605682/37115b06-09bb-4583-9205-675c2f44fbaa)
-](https://github.com/Moshati1315/HIV)
+  - [Equitable Health Care- HIV Prevalence & Nursing Home Ratings](https://github.com/Moshati1315/HIV)
+
     
 - <b>Layoffs </b>
   - [Global layoffs Tableau project ](https://github.com/Moshati1315/layoffs)
