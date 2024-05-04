@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
   
 - <b>Creditcard fraud detection</b>
-  - [creditcard fraud detection](https://github.com/Moshati1315/creditcard-fraud_detection_model)
+  - [creditcard fraud detection machine learning model](https://github.com/Moshati1315/creditcard-fraud_detection_model)
 
 - <b>COVID-19</b>
   - [Exploring COVID-19 Vaccine Effectiveness](https://github.com/ds5010/vaccines-3)
